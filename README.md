@@ -1,0 +1,1 @@
+# EduSphere is a college management system which helps faculty and students to manage their regular college tasks.
